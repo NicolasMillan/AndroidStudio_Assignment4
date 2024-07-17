@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AssignmentThree</string>
+    <string name="edit">Edit</string>
+    <string name="completed">Completed</string>
+    <string name="due_date">Due Date</string>
+    <string name="todo_name">Todo Name</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="enter_notes_here">Enter notes here...</string>
+    <string name="notes">Notes</string>
+    <string name="item_date">00/00/0000</string>
+    <string name="item_text">List Item\n</string>
+    <string name="edit_icon">\uf044</string>
+</resources>
