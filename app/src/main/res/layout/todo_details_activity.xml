@@ -46,7 +46,7 @@
         android:layout_marginBottom="16dp">
 
         <TextView
-            android:id="@+id/text_view_due_date_label"
+            android:id="@+id/calendarText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/due_date"
