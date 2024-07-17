@@ -10,6 +10,7 @@
     <string name="enter_notes_here">Enter notes here...</string>
     <string name="notes">Notes</string>
     <string name="item_date">00/00/0000</string>
-    <string name="item_text">List Item\n</string>
+    <string name="item_text">List Item</string>
     <string name="edit_icon">\uf044</string>
+    <string name="todo_list_title">TODO LIST</string>
 </resources>
