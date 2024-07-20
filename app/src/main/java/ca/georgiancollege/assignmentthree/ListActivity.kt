@@ -24,9 +24,9 @@ class ListActivity : AppCompatActivity() {
             insets
         }
 
-//        binding.todoListTitle.setOnClickListener {
-//            val intent = Intent(this, TodoDetailsActivity::class.java)
-//            startActivity(intent)
-//        }
+        binding.listBtn.setOnClickListener {
+            val intent = Intent(this, DetailsActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
