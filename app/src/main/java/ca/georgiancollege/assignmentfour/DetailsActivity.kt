@@ -1,10 +1,8 @@
-package ca.georgiancollege.assignmentthree
+package ca.georgiancollege.assignmentfour
 
 import android.os.Bundle
-import android.view.View
-import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import ca.georgiancollege.assignmentthree.databinding.TodoDetailsActivityBinding
+import ca.georgiancollege.assignmentfour.databinding.TodoDetailsActivityBinding
 
 class DetailsActivity: AppCompatActivity()
 {

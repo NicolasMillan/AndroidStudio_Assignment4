@@ -1,4 +1,4 @@
-package ca.georgiancollege.assignmentthree
+package ca.georgiancollege.assignmentfour
 
 import com.google.firebase.firestore.DocumentId
 import com.google.firebase.firestore.IgnoreExtraProperties

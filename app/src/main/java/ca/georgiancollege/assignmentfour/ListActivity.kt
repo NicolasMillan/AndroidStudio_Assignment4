@@ -1,4 +1,4 @@
-package ca.georgiancollege.assignmentthree
+package ca.georgiancollege.assignmentfour
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import ca.georgiancollege.assignmentthree.databinding.TodoListActivityBinding
+import ca.georgiancollege.assignmentfour.databinding.TodoListActivityBinding
 
 class ListActivity : AppCompatActivity() {
 
